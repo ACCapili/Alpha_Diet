@@ -1,0 +1,55 @@
+# Alpha Diet - Flutter App
+#SDG 2 aims to end hunger, achieve food security and improved nutrition and promote sustainable 
+agriculture. In order to achieve it, we must also address underlying structural problems tied with 
+poverty, lack of access to education, employment and health care, climate change, water and resource
+scarcity and others
+#Welcome to the Alpha Diet Flutter app! This project provides a mobile application for managing and 
+improving diet and nutrition using the Alpha Diet program.
+
+## Table of Contents
+
+- [About the Project](#about-the-project)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Running the App](#running-the-app)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+## About the Project
+
+The Alpha Diet app helps users track their nutritional intake, create personalized diet plans, and access educational resources about healthy eating.
+
+## Features
+
+- **Nutritional Information:** Access detailed nutritional profiles of various foods.
+- **Personalized Diet Plans:** Generate customized meal plans based on individual goals.
+- **Tracking and Monitoring:** Log daily food intake and monitor progress.
+- **Educational Resources:** Explore guides and tips on nutrition and wellness.
+
+## Getting Started
+
+### Prerequisites
+
+- [Flutter](https://flutter.dev/docs/get-started/install) (version 2.0.0 or later)
+- [Dart](https://dart.dev/get-dart) (version 2.12.0 or later)
+
+### Installation
+
+1. the repository:
+   ```bash
+   git clone https://github.com/yourusername/alpha-d.git
+
+cd alpha-diet
+
+flutter pub get
+
+flutter run
+
+### **Additional Tips**
+
+- **Formatting:** Use Markdown syntax to make your README clear and organized. Headers, lists, and code blocks help improve readability.
+- **Screenshots and GIFs:** Consider adding screenshots or GIFs to illustrate the app’s UI and functionality.
+- **Documentation:** If your project includes complex features or setup, consider using a `docs/` directory for detailed documentation.
+
+By following these steps and using the provided template, you'll effectively manage your Flutter project's README on GitHub.
